@@ -1,2 +1,2 @@
 # tiviCitrone.github.io
-Demo oldal
+Demo Oldal
